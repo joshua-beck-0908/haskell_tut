@@ -1,0 +1,1 @@
+doubleTrouble x = x + x
